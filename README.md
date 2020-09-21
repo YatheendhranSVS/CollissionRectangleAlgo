@@ -1,2 +1,2 @@
-# CollissionRectangleAlgo
-Algo for touching rectangles
+# collisionAlgorithm
+Algorithm to detect collision between two objects
